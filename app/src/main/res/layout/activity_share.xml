@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ShareActivity">
+<ImageView
+    android:id="@+id/img_click"
+    android:layout_width="45dp"
+    android:layout_height="45dp"
+    android:layout_gravity="center|bottom"
+    android:src="@mipmap/umeng_socialize_qq"
+    />
+<ImageView
+    android:id="@+id/img_1"
+    android:layout_width="45dp"
+    android:layout_height="45dp"
+    android:layout_gravity="center|bottom"
+    android:visibility="gone"
+    android:src="@mipmap/umeng_socialize_qzone"
+    />
+<ImageView
+    android:id="@+id/img_2"
+    android:layout_width="45dp"
+    android:layout_height="45dp"
+    android:layout_gravity="center|bottom"
+    android:visibility="gone"
+    android:src="@mipmap/umeng_socialize_sina"
+    />
+<ImageView
+    android:id="@+id/img_3"
+    android:layout_width="45dp"
+    android:layout_height="45dp"
+    android:layout_gravity="center|bottom"
+    android:visibility="gone"
+    android:src="@mipmap/umeng_socialize_wechat"
+    />
+<ImageView
+    android:id="@+id/img_4"
+    android:layout_width="45dp"
+    android:layout_height="45dp"
+    android:visibility="gone"
+    android:layout_gravity="center|bottom"
+    android:src="@mipmap/umeng_socialize_wxcircle"
+    />
+<ImageView
+    android:id="@+id/img_5"
+    android:layout_width="45dp"
+    android:layout_height="45dp"
+    android:visibility="gone"
+    android:layout_gravity="center|bottom"
+    android:src="@mipmap/umeng_socialize_fav"
+    />
+
+</FrameLayout>

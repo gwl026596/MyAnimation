@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\552108abe63019359022a12b3d2f85cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\5f70784bff8ca7c6722160473ae8b4f7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\afe6457ccd054deb9d652228a9c0a449\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\ee8c124599b00e4d5daa06e48760f37f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\9537bf37f262069ed6054515b9543cde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\a132a0b72af4b27c2e22b83f8b429399\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\d9ef50362f5fb792954579da720dbe00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\f5ee919feb53eea6003c6960921e7e5e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\d7dcea2382ccf79ea2a213dc8d9860ae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\f203b02b7015306afb2238a36d6ccd0e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\efafeb2398e13e24c9e39e563a71c236\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\4d181fabcc9462050e64cfd61c9fb997\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+		INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:7:22-63
+application
+ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:9:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\5f70784bff8ca7c6722160473ae8b4f7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\5f70784bff8ca7c6722160473ae8b4f7\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.gcssloop.scalegesturedemo.ShareActivity
+ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:16:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.gcssloop.scalegesturedemo.Main2Activity
+ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:23:19-48
+activity#com.gcssloop.scalegesturedemo.ScanActivity
+ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:24:9-50
+	android:name
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:24:19-47
+activity#com.gcssloop.scalegesturedemo.MainActivity
+ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:25:9-27:20
+	android:name
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml:25:19-47
+uses-sdk
+INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\552108abe63019359022a12b3d2f85cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\552108abe63019359022a12b3d2f85cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\5f70784bff8ca7c6722160473ae8b4f7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\5f70784bff8ca7c6722160473ae8b4f7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\afe6457ccd054deb9d652228a9c0a449\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\afe6457ccd054deb9d652228a9c0a449\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\ee8c124599b00e4d5daa06e48760f37f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\ee8c124599b00e4d5daa06e48760f37f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\9537bf37f262069ed6054515b9543cde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\9537bf37f262069ed6054515b9543cde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\a132a0b72af4b27c2e22b83f8b429399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\a132a0b72af4b27c2e22b83f8b429399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\d9ef50362f5fb792954579da720dbe00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\d9ef50362f5fb792954579da720dbe00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\f5ee919feb53eea6003c6960921e7e5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\f5ee919feb53eea6003c6960921e7e5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\d7dcea2382ccf79ea2a213dc8d9860ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\d7dcea2382ccf79ea2a213dc8d9860ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\f203b02b7015306afb2238a36d6ccd0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\f203b02b7015306afb2238a36d6ccd0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\efafeb2398e13e24c9e39e563a71c236\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\efafeb2398e13e24c9e39e563a71c236\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\4d181fabcc9462050e64cfd61c9fb997\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wanlong.geng\.gradle\caches\transforms-2\files-2.1\4d181fabcc9462050e64cfd61c9fb997\AndroidManifest.xml:20:5-44
+INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+		INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+		ADDED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
+		INJECTED from D:\googledemo\kk\app\src\main\AndroidManifest.xml
